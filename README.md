@@ -71,18 +71,6 @@ This project is a smart **solar tracking system** built using **Arduino Nano**, 
 
 ---
 
-## 📁 Folder Structure
-
-```
-/
-├── images/                  # Add your demo images here
-├── SolarTracker.ino         # Arduino code
-├── README.md                # Project documentation
-└── schematic.pdf/png        # Optional: Circuit diagram
-```
-
----
-
 ## 🛠 Future Improvements
 
 * WiFi/Bluetooth module for wireless monitoring
