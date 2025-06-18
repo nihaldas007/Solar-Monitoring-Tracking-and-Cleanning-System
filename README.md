@@ -1,6 +1,3 @@
-Here's a complete **GitHub README.md** description for your solar tracking system project, including demo image placeholders, component list, system overview, and usage instructions. You can later add actual image files and link them in place of the placeholders:
-
----
 
 # 🌞 Solar Tracking System with Monitoring and Cleaning
 
