@@ -8,9 +8,9 @@ This project is a smart **solar tracking system** built using **Arduino Nano**, 
 ## 📷 Demo Images
 
 
-| Solar Tracker Front View   | Tracking in Action       | LCD Display Output         | Cleaning Mechanism       |
-| -------------------------- | ------------------------ | -------------------------- | ------------------------ |
-| ![](images/front_view.jpg) | ![](images/tracking.gif) | ![](images/lcd_output.jpg) | ![](images/cleaning.jpg) |
+| Solar Tracker Front View    | LCD Display Output        
+| --------------------------  | -------------------------- 
+| ![](images/front_view.jpg)  | ![](images/lcd_output.jpg) 
 
 ---
 
