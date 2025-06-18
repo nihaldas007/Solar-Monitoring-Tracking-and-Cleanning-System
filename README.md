@@ -94,10 +94,8 @@ This project is a smart **solar tracking system** built using **Arduino Nano**, 
 
 ## 🧑‍🔧 Author
 
-**Your Name**
+**Nihal Das Ankur**
 DIY Electronics and Automation Enthusiast
 📧 [nihaldas007@gmail.com](nihaldas007@gmail.com)
 
 ---
-
-Let me know if you want help writing the actual Arduino code or creating a schematic diagram!
