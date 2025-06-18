@@ -47,8 +47,7 @@ This project is a smart **solar tracking system** built using **Arduino Nano**, 
 
 ## 🔌 Circuit Overview
 
-> *Add a schematic image here if available.*
-> Example:
+> *Schematic Image*
 > ![](images/circuit_diagram.jpg)
 
 ---
